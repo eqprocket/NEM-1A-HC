@@ -6,6 +6,8 @@ h1 {
     text-align: center;
     background-color: gray;
     font-style:italic;
+    border: 2px solid #000000;
+border-radius: 10px;
 }
 
 h4 {
