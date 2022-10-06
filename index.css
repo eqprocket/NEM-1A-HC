@@ -1,12 +1,13 @@
 html {
-    background-color: rgb(251, 240, 252);
+    background-color: rgb(230, 224, 221);
  }
  .boutique {
      text-align: center;
      background-color: rgb(233, 233, 233);
      font-style:italic;
-     border: 2px solid #f3ebeb;
- border-radius: 10px;
+     border: 1px solid #f3ebeb;
+     border-radius: 10px;
+     margin: 0 0.5%;
  }
  
  .titulo-centralizado {
@@ -18,7 +19,33 @@ html {
      padding: 30px;
  }
  
- .maculino {
-     margin-right: 20px;
+ .menu {
+     position: relative;
+     width: 1200px;
+     margin: 0 auto;
+     padding: 20px 0;
+     
  }
  
+ .feminino {
+     font-size: 20px
+ }
+ 
+ .masculino {
+     font-size: 20px
+ }
+ 
+ 
+ .home {
+     font-size: 20px
+ }
+ 
+ .sobrenos {
+     font-size: 20px
+ }
+ 
+ 
+ header {
+     background: rgb(233, 233, 233);
+     padding: 20px 0;
+ }
