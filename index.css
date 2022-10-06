@@ -1,20 +1,24 @@
 html {
-    background-color: #e8f4ff;
-  }
-
-h1 {
-    text-align: center;
-    background-color: gray;
-    font-style:italic;
-    border: 2px solid #000000;
-border-radius: 10px;
-}
-
-h4 {
-    text-align: center;
-    
-}
-
-Class.Boutique {
-    font-style:italic
-}
+    background-color: rgb(251, 240, 252);
+ }
+ .boutique {
+     text-align: center;
+     background-color: rgb(233, 233, 233);
+     font-style:italic;
+     border: 2px solid #f3ebeb;
+ border-radius: 10px;
+ }
+ 
+ .titulo-centralizado {
+     padding-left: 20px;
+ }
+ 
+ .principal{
+     background: rgb(233, 233, 233);
+     padding: 30px;
+ }
+ 
+ .maculino {
+     margin-right: 20px;
+ }
+ 
