@@ -1,6 +1,12 @@
 html {
     background-color: rgb(230, 224, 221);
  }
+
+ header {
+    background: rgb(233, 233, 233);
+    padding: 20px 0;
+}
+
  .boutique {
      text-align: center;
      background-color: rgb(233, 233, 233);
@@ -9,6 +15,13 @@ html {
      border-radius: 10px;
      margin: 0 0.5%;
  }
+
+ .menu {
+    position: relative;
+    width: 1200px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
  
  .titulo-centralizado {
      padding-left: 20px;
@@ -17,14 +30,6 @@ html {
  .principal{
      background: rgb(233, 233, 233);
      padding: 30px;
- }
- 
- .menu {
-     position: relative;
-     width: 1200px;
-     margin: 0 auto;
-     padding: 20px 0;
-     
  }
  
  .feminino {
@@ -44,16 +49,11 @@ html {
      font-size: 20px
  }
  
- 
- header {
-     background: rgb(233, 233, 233);
-     padding: 20px 0;
- }
- 
  .sobreboutique1 {
      width: 543px;
  }
  
  .sobreboutique2 {
      width: 584px;
+     text-shadow: chocolate;
  }
